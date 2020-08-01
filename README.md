@@ -4,4 +4,11 @@ So as a data driven researcher and data visualization lover, I thought maybe I c
 This is a view of my excel spreadsheet. I'll leave a link to where you can download it.
 
 Some vizualizations from inside the notebook:
+
+Here is a clean representation besed on week day, date and month of each spending:
+
+![alt text](https://github.com/mitramir55/MySpendings/blob/master/based%20on%20days.png?raw=true)
+
+
+Here are how I spend on each category:
 ![alt text](https://github.com/mitramir55/MySpendings/blob/master/categories.png?raw=true)
