@@ -4,4 +4,4 @@ So as a data driven researcher and data visualization lover, I thought maybe I c
 This is a view of my excel spreadsheet. I'll leave a link to where you can download it.
 
 Some vizualizations from inside the notebook:
-
+![alt text](https://github.com/mitramir55/MySpendings/blob/master/categories.png?raw=true)
